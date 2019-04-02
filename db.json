@@ -1,0 +1,193 @@
+{
+  "emailjson": [
+    {
+      "id": 1,
+      "type": "inbox",
+      "to": "my_email@example.com",
+      "fromName": "Leann",
+      "fromEmail": "leann@outlook.com",
+      "date": "Fri Feb 02 2018 05:23:51 GMT+0300 (EEST)",
+      "subject": "Training Program",
+      "content": "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community"
+    },
+    {
+      "id": 2,
+      "type": "inbox",
+      "to": "my_email@example.com",
+      "fromName": "Harriott",
+      "fromEmail": "harriott@outlook.com",
+      "date": "Wed Feb 21 2018 22:42:44 GMT+0300 (EEST)",
+      "subject": "Empower your future",
+      "content": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. \n\nInteger non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."
+    },
+    {
+      "id": 3,
+      "type": "inbox",
+      "to": "raymond@outlook.com",
+      "fromName": "Raymond",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Mar 25 2018 05:26:15 GMT+0300 (EEST)",
+      "subject": "Welcome Note",
+      "content": "About Microsoft Virtual Academy<br/>Microsoft Virtual Academy provides free online training by world-class experts to help you build your technical skills and advance your career. Make it your destination of choice to get started on the latest Microsoft technologies and join this vibrant community"
+    },
+    {
+      "id": 4,
+      "type": "inbox",
+      "to": "ltisor@outlook.com",
+      "fromName": "Laverne",
+      "fromEmail": "my_email@example.com",
+      "date": "Fri Mar 16 2018 10:24:41 GMT+0300 (EEST)",
+      "subject": "Opportunity for Business Analyst",
+      "content": "5+ years of experience working with global clients and have good exposure to process areas like Hire to Retire, Order to Cash, Source to Pay and Plan to Deliver."
+    },
+    {
+      "id": 5,
+      "type": "inbox",
+      "to": "florri@outlook.com",
+      "fromName": "Florri",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Apr 22 2018 21:22:24 GMT+0300 (EEST)",
+      "subject": "HelpLine",
+      "content": "you can login to myHelpline from web and mobile to raise Helpline requests for any issues."
+    },
+    {
+      "id": 6,
+      "type": "draft",
+      "to": "abby@outlook.com",
+      "fromName": "Abby",
+      "fromEmail": "my_email@example.com",
+      "date": "Thu Apr 19 2018 09:05:49 GMT+0300 (EEST)",
+      "subject": "Opportunity for AI",
+      "content": "The person will be primarily responsible for designing and building IT Automation solutions using Machine learning, NLP and web technologies"
+    },
+    {
+      "id": 7,
+      "type": "draft",
+      "to": "ltisor@outlook.com",
+      "fromName": "Laverne",
+      "fromEmail": "my_email@example.com",
+      "date": "Fri Mar 16 2018 10:24:41 GMT+0300 (EEST)",
+      "subject": "Employee Communication",
+      "content": "Shared or coworking spaces will become the norm in future. Agree or Disagree"
+    },
+    {
+      "id": 8,
+      "type": "draft",
+      "to": "florri@outlook.com",
+      "fromName": "Florri ",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Apr 22 2018 21:22:24 GMT+0300 (EEST)",
+      "subject": "Industrial Machinery/Components",
+      "content": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus."
+    },
+    {
+      "id": 12,
+      "type": "send",
+      "to": "mroselli5@outlook.com",
+      "fromName": "Minnie",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Apr 22 2018 21:22:24 GMT+0300 (EEST)",
+      "subject": "International Women’s Day 2019",
+      "content": "Celebrating International Women’s Day 2019"
+    },
+    {
+      "id": 13,
+      "type": "send",
+      "to": "psatchell6@outlook.com",
+      "fromName": "Paolo",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Apr 22 2018 21:22:24 GMT+0300 (EEST)",
+      "subject": "Insurance policy",
+      "content": "A Group Health Insurance Policy has been issued at Bangalore, by United India Insurance Company Limited to the Policyholder."
+    },
+    {
+      "id": 15,
+      "type": "send",
+      "to": "raymond@outlook.com",
+      "fromName": "Raymond ",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Mar 25 2018 05:26:15 GMT+0300 (EEST)",
+      "subject": "The maximum displayed length of the email from line",
+      "content": "In last week’s article, we hoped to convince you that the from line is at least as important as the subject line in all your email communications. Now, to help you out, we tested different platforms and came up with the following “cheat-sheet”, detailing the maximum displayed length of the from line on different browsers, phones and desktop applications!"
+    },
+    {
+      "id": 14,
+      "type": "spam",
+      "to": "abby@outlook.com",
+      "fromName": "Abby",
+      "fromEmail": "my_email@example.com",
+      "date": "Thu Apr 19 2018 09:05:49 GMT+0300 (EEST)",
+      "subject": "Your Free Marketing Consultation",
+      "content": "Thank you for showing interest in ThriveHive’s Guided Marketing Platform. By taking this initial step, you are already well on your way to meeting your marketing goals AND streamlining your marketing process."
+    },
+    {
+      "id": 23,
+      "type": "spam",
+      "to": "hsarsons3@outlook.com",
+      "fromName": "Hinze Sarsons",
+      "fromEmail": "my_email@example.com",
+      "date": "Thu Apr 19 2018 09:05:49 GMT+0300 (EEST)",
+      "subject": "Here is Your Free eBook on Facebook Marketing",
+      "content": "This week, we are excited to introduce to you an eBook that can help you better engage your audience with social media: “How to Make Facebook Work for Your Business”. The guide includes actionable insights from real small business owners from across a variety of industries."
+    },
+    {
+      "to": "test@gmail.com",
+      "fromName": "My email",
+      "fromEmail": "my_email@example.com",
+      "date": "Fri Mar 29 2019 16:00:42 GMT+0530 (India Standard Time)",
+      "subject": "test",
+      "type": "spam",
+      "id": 24
+    },
+    {
+      "id": 16,
+      "type": "delete",
+      "to": "raymond@outlook.com",
+      "fromName": "Raymond",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Mar 25 2018 05:26:15 GMT+0300 (EEST)",
+      "subject": "Following up on my call",
+      "content": " called you late last week in response to your recent download of the ThriveHive Marketing Guide. I have attached it here in case you had any difficulties accessing it."
+    },
+    {
+      "id": 17,
+      "type": "delete",
+      "to": "abby@outlook.com",
+      "fromName": "Abby",
+      "fromEmail": "my_email@example.com",
+      "date": "Thu Apr 19 2018 09:05:49 GMT+0300 (EEST)",
+      "subject": "A Big Thanks",
+      "content": "Let me take this opportunity to thank you for choosing Doe Fire Extinguishers to provide your company the finest extinguishers and servicing. We are proud of our satisfied clientele and look forward to many years of working together."
+    },
+    {
+      "id": 18,
+      "type": "delete",
+      "to": "hsarsons3@outlook.com",
+      "fromName": "Hinze",
+      "fromEmail": "my_email@example.com",
+      "date": "Thu Apr 19 2018 09:05:49 GMT+0300 (EEST)",
+      "subject": "You are Invited to our Webinar on Local SEO for Small Businesses",
+      "content": "You are invited to attend our FREE Local SEO Webinar to learn how to you get more traffic to your website. This is a special webinar for our valued customers only."
+    },
+    {
+      "id": 21,
+      "type": "delete",
+      "to": "raymond@outlook.com",
+      "fromName": "Raymond",
+      "fromEmail": "my_email@example.com",
+      "date": "Sun Mar 25 2018 05:26:15 GMT+0300 (EEST)",
+      "subject": "Redesign Your Website for $29",
+      "content": "As a valued customer at ThriveHive, we would like to offer you an exclusive deal during the month of January. For just $29, ThriveHive will help you redesign your website to optimize lead conversion for your business."
+    },
+    {
+      "id": 22,
+      "type": "delete",
+      "to": "abby@outlook.com",
+      "fromName": "Abby",
+      "fromEmail": "my_email@example.com",
+      "date": "Thu Apr 19 2018 09:05:49 GMT+0300 (EEST)",
+      "subject": "Our Latest Offering for Your Account",
+      "content": "We are excited to introduce to you our latest enhancement of your ThriveHive account, which was based on suggestions from our valued customers."
+    }
+  ]
+}
